@@ -91,7 +91,7 @@ Extra bonuses:
 - Binary tree for PATH management
 
 Authors:
-@Incomprehensible
-@gdaemoni
-@zidanez
-@hgranule
+[@Incomprehensible](https://github.com/Incomprehensible)
+[@gdaemoni](https://github.com/gdaemoni)
+[@zidanez](https://github.com/zidanez)
+[@hgranule](https://github.com/hgranule/)
